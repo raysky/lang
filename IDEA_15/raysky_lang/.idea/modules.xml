@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../commons-lang3-3.4-src/commons-lang3.iml" filepath="$PROJECT_DIR$/../commons-lang3-3.4-src/commons-lang3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/fluent-hc/fluent-hc.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/fluent-hc/fluent-hc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient/httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-cache/httpclient-cache.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-cache/httpclient-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-osgi/httpclient-osgi.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-osgi/httpclient-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-win/httpclient-win.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpclient-win/httpclient-win.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpcomponents-client.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpcomponents-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpmime/httpmime.iml" filepath="$PROJECT_DIR$/../httpcomponents-client-4.5.1/httpmime/httpmime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raysky_lang.iml" filepath="$PROJECT_DIR$/raysky_lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Shiro-CMS/shiro-cms.iml" filepath="$PROJECT_DIR$/../Shiro-CMS/shiro-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weixin-utils/weixin-utils.iml" filepath="$PROJECT_DIR$/../weixin-utils/weixin-utils.iml" />
+    </modules>
+  </component>
+</project>

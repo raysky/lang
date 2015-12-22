@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shiro-cms:war">
+    <output-path>$PROJECT_DIR$/../Shiro-CMS/target</output-path>
+    <root id="archive" name="springmvc.war">
+      <element id="artifact" artifact-name="shiro-cms:war exploded" />
+    </root>
+  </artifact>
+</component>
